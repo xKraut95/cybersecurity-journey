@@ -11,7 +11,7 @@ IT Support profesional transitioning into Cybersecurity,  With a focus on Blue T
 - Endpoint security and incident response basics.
 
 ## Background
-- University studen in Systems
+- University student in Systems
 - IT Support experience with corporate enviroments
 - Strong focus in documentation, procedures, and operational clarity
 - Windows enviroments and endpoint protections (EDR, antivirus management consoles)
