@@ -16,23 +16,23 @@ Is a person or a group of persons with different motivations, personalities and 
 
 ## CIA Triad
 
--- The special triad for cybersecurity analists
+- The special triad for cybersecurity analists
 
--- Confidentiality, the data must be accesed by authorized people and restricted to anyone else
+- Confidentiality, the data must be accesed by authorized people and restricted to anyone else
 
--- Integrity, the data must remain authentic and it mustn't be altered
+- Integrity, the data must remain authentic and it mustn't be altered
 
--- Availability, the data must be available for all the authorized persons.
+- Availability, the data must be available for all the authorized persons.
 
 
 ## DAD triad
 
--- The triad that all cybersecurity analists must avoid, it means
+- The triad that all cybersecurity analists must avoid, it means
 
--- Divulgation: The data is exposed to unauthorized people
+- Divulgation: The data is exposed to unauthorized people
 
--- Alteration: The data is altered nor authentic.
+- Alteration: The data is altered nor authentic.
 
--- Denegation: The authorized agents aren't allowed to enter the data.
+- Denegation: The authorized agents aren't allowed to enter the data.
 
 
