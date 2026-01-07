@@ -25,7 +25,7 @@ Is a person or a group of persons with different motivations, personalities and 
 ## DAD triad:
 The triad that all cybersecurity analists must avoid, it means:
 
--- Divulgation: The data is exposed to unauthorized people
+--Divulgation: The data is exposed to unauthorized people
 
 -- Alteration: The data is altered nor authentic.
 
