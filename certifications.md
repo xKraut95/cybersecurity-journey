@@ -1,4 +1,4 @@
-In this file, I will post all my certifications from exams, courses, university and so on.
+In this document, I will post all my certifications from exams, courses, university and so on.
 
 ## English Proficency
  
