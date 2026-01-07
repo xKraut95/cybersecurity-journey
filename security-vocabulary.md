@@ -16,7 +16,7 @@ Is a person or a group of persons with different motivations, personalities and 
 
 ## CIA Triad
 
-- The special triad for cybersecurity analists
+The special triad for cybersecurity analists:
 
 - Confidentiality, the data must be accesed by authorized people and restricted to anyone else
 
@@ -27,7 +27,7 @@ Is a person or a group of persons with different motivations, personalities and 
 
 ## DAD triad
 
-- The triad that all cybersecurity analists must avoid, it means
+The triad that all cybersecurity analists must avoid, it means:
 
 - Divulgation: The data is exposed to unauthorized people
 
