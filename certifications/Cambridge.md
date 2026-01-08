@@ -1,5 +1,5 @@
-English Proficency
--- First Certificate in English (FCE) -- Level: (B2)
+English Proficency:
+- First Certificate in English (FCE) - Level: (B2)
 
 Certificado FCE Cambridge.pdf
 
