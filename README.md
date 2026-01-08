@@ -1,5 +1,5 @@
 # cybersecurity-journey
-Cybersecurity learning path focused on BLue Team and SOC fundamentals.
+Cybersecurity learning path focused on Blue Team and SOC fundamentals.
 
 Hi, I'm Ignacio
 
