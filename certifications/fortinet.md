@@ -1,5 +1,5 @@
 - Fortinet 
--Level: (NSE 1)
+- Level: (NSE 1)
 
 [Fortinet Certified Fundamentals in Cybersecurity.pdf](https://github.com/user-attachments/files/24505298/Fortinet.Certified.Fundamentals.in.Cybersecurity.pdf)
 
