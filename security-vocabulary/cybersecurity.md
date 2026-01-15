@@ -1,4 +1,4 @@
-Security vocabulary & fundamentals
+#Security vocabulary & fundamentals
 This document contains core security concepts learned during my cybersecurity training and studies.
 
 Firewall
