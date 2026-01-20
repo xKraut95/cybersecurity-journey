@@ -21,8 +21,7 @@ IT Support profesional transitioning into Cybersecurity,  With a focus on Blue T
 
 
 ## Learning and practice:
-- Actually, doing Forinet NSE 1 & 2 (Network Security)
-- Cisco Networking & Security fundamentls
+- Cisco Networking & Security fundamentals
 - Tryhackme labs (Blue Team / Soc focus)
 
 ## Proyects
