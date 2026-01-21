@@ -13,7 +13,7 @@
 - The impact of Day Zero Vulnerabilities with real consequences.
 - Rules to prevent these attacks, users don't have to click suspicious links, always preview them and calling IT department in case of these situations.
 - Learnt about the solution, and how to detect these suspicious links.
-- How this exploit worked, the impact and the consequences for all.
+- How this exploit worked, the impact and the consequences for users and companies.
 - Checking the attack vector, network, small complexity and critical severity that compromises CIA triad.
 - A theorical approach to Moniker Links.
 
