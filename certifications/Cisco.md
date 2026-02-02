@@ -9,4 +9,4 @@ Cisco Networking Basics Certificate
 - Learned to implement best practices for network security and optimization in corporate environments.
 - Developed the ability to adapt to modern networking and cybersecurity paradigms, ensuring secure and efficient communication across networks.
 
-- Also, I did labs to administrate LAN, check different errors and learnt about useful commands to fix errors in networking.
+- Also, I did labs to administrate a few LANs, check different errors and learnt about useful commands to fix errors in networking.
