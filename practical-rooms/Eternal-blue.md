@@ -3,11 +3,11 @@
 Link to the room: https://tryhackme.com/room/blue
 
 
-What I learnt:
+## What I learnt:
 
 - In a controlled and intentionally vulnerable lab environment provided by TryHackMe, I practiced exploiting the EternalBlue (MS17-010) vulnerability to understand how outdated Windows systems can be compromised through SMB.
 
-During this room, I:
+## During this room, I:
 
 - Identified open and vulnerable ports and services
 
