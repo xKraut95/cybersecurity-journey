@@ -22,3 +22,5 @@ What I learnt about SIEM:
 - Real time alertas and a dashboard to present information.
 - The concepts of false positive, true positive.
 - And some tools like Windows event visor to start analyzing events.
+
+Also, I had some practical work simulating an organization EDR and SIEM.
