@@ -12,7 +12,7 @@ What I learnt about EDRs:
 - Good analysis is based on important and good quantity of data, visibility.
 - EDRs analyze strange activity and behaviour, excelling typical antivirus.
 - With data and analysis done, SOC members respond to the threats with different options.
-- Using Machine learning and deep logic, it makes the EDR works as intended.
+- Using Machine learning and deep logic, it makes the EDR works as intended. 
 
 What I learnt about SIEM:
 
