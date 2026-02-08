@@ -21,8 +21,9 @@ IT Support profesional transitioning into Cybersecurity,  With a focus on Blue T
 
 
 ## Learning and practice:
-- Cisco Networking & Security fundamentals
+- Junior Cybersecurity Analyst Career Path (In Progress)
 - Tryhackme labs (Blue Team / Soc focus)
+- HackTheBox labs (Blue Team / Soc focused)
 - Fortinet NSE2 (Done)
 
 ## Proyects
