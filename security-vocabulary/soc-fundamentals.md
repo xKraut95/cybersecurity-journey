@@ -13,6 +13,6 @@ MITRE ATT&CK:
 
 Kill Chain:
 
-- A set of steps made by Lockheed Martin to identify their modus operandi.
+- A set of steps made by Lockheed Martin to identify the attackers modus operandi.
 - The steps are Reconnaissance, Weaponization, Delivery, Exploitation , Installation, Command & Control, Actions on Objectives
 - Gathering info, selecting the payload, deciding the method to send it, executing the code using the vulnerability, installing a backdoor, controlling the computer, and doing the mischeivous acts.
