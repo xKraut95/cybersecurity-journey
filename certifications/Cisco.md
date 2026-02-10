@@ -13,6 +13,8 @@ Cisco Networking Basics Certificate
 
 - ## Cisco Networking Devices and Basic Configuration Course
 
+[NetworkingDevicesandBasicConfigUpdate20260210-33-bfyarf.pdf](https://github.com/user-attachments/files/25220139/NetworkingDevicesandBasicConfigUpdate20260210-33-bfyarf.pdf)
+
 Cisco Networking Configuration Course
 
 - This certificate demonstrates my habilities to configure a LAN using Cisco equipment.
